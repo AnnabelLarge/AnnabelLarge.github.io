@@ -82,12 +82,13 @@ analytics:
 author:
   name             : "Annabel Large"
   avatar           : "annabel.jpg"
-  bio              : "3rd year PhD student\nUC Berkeley - UCSF Joint Bioengineering Graduate Group"
+  bio              : "3rd year PhD student
+                      UC Berkeley - UCSF Joint Bioengineering Graduate Group"
   location         : "Stanley Hall, UC Berkeley"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "annabel [underscore] large [at] berkeley [dot] edu"
+  email            : "annabel_large@berkeley.edu"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -103,7 +104,6 @@ author:
   impactstory      :  
   lastfm           :
   linkedin         :
-  notion           : "https://alarge.notion.site/"
   orcid            : 
   pinterest        :
   soundcloud       :
