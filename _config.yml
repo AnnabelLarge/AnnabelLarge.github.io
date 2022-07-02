@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "false" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -82,9 +82,7 @@ analytics:
 author:
   name             : "Annabel Large"
   avatar           : "annabel.jpg"
-  bio              : |
-                     3rd year PhD student
-                     UC Berkeley - UCSF Joint Bioengineering Graduate Group
+  bio              : "3rd year PhD student in the UC Berkeley - UCSF Joint Bioengineering Graduate Group"
   location         : "Stanley Hall, UC Berkeley"
   employer         :
   pubmed           : 
@@ -194,16 +192,16 @@ collections:
 # Defaults
 defaults:
   # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+  #- scope:
+  #    path: ""
+  #    type: posts
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    read_time: true
+  #    comments: true
+  #    share: true
+  #    related: true
   # _pages
   - scope:
       path: ""
