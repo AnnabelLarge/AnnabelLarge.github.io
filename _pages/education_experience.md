@@ -1,7 +1,7 @@
 ---
 permalink: /education_experience/
-title: "Education and Experience"
-excerpt: "Education and Experience"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
 ---
