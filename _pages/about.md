@@ -13,7 +13,7 @@ My name is Annabel Large (国晓瑛), I use she/her pronouns, and I'm a rising 3
 I'm working on building statistical and machine learning models to better characterize and understand the engineering of Adeno-associated virus (AAV) capsids. Specifically, with all the newest tools and toys from Nanopore informatics and protein language modeling, can we discover new parts of AAV functional landscape? (see my Up-Goer Five summary attempt below!)  
   
 ### Graphical CV
-<a href="/files/mytimeline.pdf" download>Click to download full image</a>
+[Click to download full image](/files/mytimeline.pdf)
 ![my_timeline](/files/mytimeline2.jpg)  
   
 ### Up-Goer Five Research Statement
