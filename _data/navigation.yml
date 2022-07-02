@@ -2,6 +2,7 @@
 main:
   - title: "Main"
     url: /about
+  
   - title: "Education and Experience"
     url: /education_experience/
 
