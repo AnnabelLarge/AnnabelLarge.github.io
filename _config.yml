@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : ""
 title_separator          : "-"
 name                     : &name "Annabel Large"
-description              : &description "3rd year PhD student in the Bioengineering department, advised by Prof. Ian Holmes"
+description              : &description "The website of Annabel Large"
 url                      : https://AnnabelLarge.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AnnabelLarge/AnnabelLarge.github.io"
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : "dark" # (default), "dark"
+    colorscheme          : # light (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Annabel Large"
+  avatar           : "annabel.jpg"
+  bio              : "3rd year PhD student\nUC Berkeley - UCSF Joint Bioengineering Graduate Group"
+  location         : "Stanley Hall, UC Berkeley"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : 
+  googlescholar    : 
+  email            : "annabel [underscore] large [at] berkeley [dot] edu"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,21 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/AnnabelLarge"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :  
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  notion           : "https://alarge.notion.site/"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/AnnabelLarge"
   vine             :
   weibo            :
   xing             :
