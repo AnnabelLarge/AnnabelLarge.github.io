@@ -7,8 +7,9 @@ redirect_from:
 ---
 
 # Education
-## University of California (UC), Berkeley and UC San Francisco
-**UC Berkeley - UCSF Graduate Program in Bioengineering (2020 - present)**  
+## University of California (UC), Berkeley and UC San Francisco  
+**2020 - present**  
+**UC Berkeley - UCSF Graduate Program in Bioengineering**  
 PhD Thesis Advisor: Prof. Ian Holmes  
 - GPA: 3.9
 - Select Coursework:
@@ -16,8 +17,9 @@ PhD Thesis Advisor: Prof. Ian Holmes
   - CS 289: Introduction to Machine Learning
   - CS 288: Natural Language Processing
   
-## University of Tennessee at Knoxville
-**Chemical and Biomolecular Engineering (2014-2019)**  
+## University of Tennessee at Knoxville  
+**2014 - 2019**  
+**Chemical and Biomolecular Engineering**  
 - GPA: 3.9
 - Select Graduate-level Coursework:
   - CBE 506: Advanced Engineering Mathematics
