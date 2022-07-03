@@ -20,5 +20,6 @@ Better late than never, it's [The Legend of Zelda: Breath of the Wild](https://w
 
 ### who am I with?
 Jiru, my syrian hamster! :)  
-<img src="/files/jiru1.jpg" alt="jiru_picture_1" width="200"/>
-<img src="/files/jiru2.jpg" alt="jiru_picture_2" width="200"/>
+  
+<img style="border:2px dark gray" src="/files/jiru1.jpg" alt="jiru_picture_1" width="350"/>
+<img style="border:2px dark gray" src="/files/jiru2.jpg" alt="jiru_picture_2" width="350"/>
