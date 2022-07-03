@@ -23,9 +23,9 @@ PhD Thesis Advisor: Ian Holmes
   - CBE 506: Advanced Engineering Mathematics
   - CBE 475/575: Applied Microbiology and Bioengineering
   - BME 480/580: Computational Cell Biology
-\  
+  
 ---  
-\  
+  
 # Research Experience
 ## [2020 - present] Doctoral Research 
 **UC Berkeley - UCSF Graduate Program in Bioengineering**  
