@@ -9,7 +9,7 @@ redirect_from:
 # Education
 ## University of California (UC), Berkeley and UC San Francisco
 **UC Berkeley - UCSF Graduate Program in Bioengineering (2020 - present)**  
-PhD Thesis Advisor: Ian Holmes  
+PhD Thesis Advisor: Prof. Ian Holmes  
 - GPA: 3.9
 - Select Coursework:
   - BioEng 241: Probabilistic Modeling in Computational Biology
@@ -28,10 +28,17 @@ PhD Thesis Advisor: Ian Holmes
   
 # Research Experience
 ## Doctoral Research
-**2020 - present**  
+**2021 - present**  
 **UC Berkeley - UCSF Graduate Program in Bioengineering**  
-PhD Thesis Advisor: Ian Holmes  
+PhD Thesis Advisor: Prof. Ian Holmes  
 *Building statistical and machine learning models to better characterize and understand the engineering of Adeno-associated virus capsids*  
+
+## Research Rotations
+**2020-2021**
+**UC Berkeley - UCSF Graduate Program in Bioengineering** 
+Rotation 1: Prof. Christoph Kirst, Computational Theoretical Neuroscience
+Rotation 2: Prof. Priya Moorjani, Causal Variant Discovery for South Asian Populations
+Rotation 3: Prof. Ian Holmes, Machine Learning for Directed Evolution of Proteins
   
 ## Fulbright Research Fellowship: Swedish University of Agricultural Sciences
 **Aug 2019 - May 2020**  
