@@ -23,37 +23,37 @@ PhD Thesis Advisor: Ian Holmes
   - CBE 506: Advanced Engineering Mathematics
   - CBE 475/575: Applied Microbiology and Bioengineering
   - BME 480/580: Computational Cell Biology
-  
-  
-   
+\  
+---  
+\  
 # Research Experience
-## Doctoral Research
-**UC Berkeley - UCSF Graduate Program in Bioengineering (2020 - present)**  
+## [2020 - present] Doctoral Research 
+**UC Berkeley - UCSF Graduate Program in Bioengineering**  
 PhD Thesis Advisor: Ian Holmes  
 *Building statistical and machine learning models to better characterize and understand the engineering of Adeno-associated virus capsids*  
   
-## Fulbright Research Fellowship: Swedish University of Agricultural Sciences
-**Department of Plant Protection Biology, Alnarp, Sweden (Aug 2019 - May 2020)**  
+## [Aug 2019 - May 2020] Fulbright Research Fellowship: Swedish University of Agricultural Sciences
+**Department of Plant Protection Biology, Alnarp, Sweden**  
 Research Advisor: Prof. Erik Alexandersson  
 Technical Advisors: Dr. Daniel Jacobson, Prof. Kristina Gruden, Prof. Oren Tzfadia, Dr. Ziva Ramsak  
 *Network-based Multiomic Data Integration for Exploration of Potato Plan Immunity Pathways*  
   
-## Department of Energy Internship: Oak Ridge National Laboratory
-**Computational System Biology Group, Oak Ridge, Tennessee (Jan 2018 - July 2019)**  
+## [Jan 2018 - July 2019] Department of Energy Internship: Oak Ridge National Laboratory
+**Computational System Biology Group, Oak Ridge, Tennessee**  
 Research Advisor: Dr. Daniel Jacobson  
 *Network-based Multiomic Data Integration at the Supercomputing Scale*  
   
-## Department of Energy Internship: Lawrence Berkeley National Laboratory
-**Joint BioEnergy Institute, Emeryville, California (June 2017 - Dec 2017)**  
+## [June 2017 - Dec 2017] Department of Energy Internship: Lawrence Berkeley National Laboratory
+**Joint BioEnergy Institute, Emeryville, California**  
 Research Advisor: Dr. Nathan Hilson  
 *Automation and Scaling of Molecular Biological Experiments*  
   
-## Undergradaute Research Assistant: University of Tennessee at Knoxville
-**Computational Immunology Group, Knoxville, Tennessee (Aug 2015 - May 2017)**  
+## [Aug 2015 - May 2017] Undergradaute Research Assistant: University of Tennessee at Knoxville
+**Computational Immunology Group, Knoxville, Tennessee**  
 Research Advisor: Prof. Steve Abel  
 *Physics-based Simulations of Surface Protein Dynamics*  
   
-## National Science Foundation Research Experiences for Undergraduates: University of Alabama
-**Protein Engineering Group, Tuscaloosa, Alabama (June 2016 - Aug 2016)**  
+## [June 2016 - Aug 2016] National Science Foundation Research Experiences for Undergraduates: University of Alabama
+**Protein Engineering Group, Tuscaloosa, Alabama**  
 Research Advisor: Prof. Ryan Summers  
 *Engineering Chimeric Caffeine-digesting Enzymes*  
