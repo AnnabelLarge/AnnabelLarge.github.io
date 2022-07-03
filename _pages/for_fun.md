@@ -19,5 +19,6 @@ Fueling my Dungeons and Dragons obsession with [Not Another D&D Podcast, Campaig
 Better late than never, it's [The Legend of Zelda: Breath of the Wild](https://www.zelda.com/breath-of-the-wild/)  
 
 ### who am I with?
-Jiru, my syrian hamster! :)
-![jiru_picture_1](/files/jiru1.jpg) ![jiru_picture_2](/files/jiru2.jpg)
+Jiru, my syrian hamster! :)  
+<img src="/files/jiru1.jpg" alt="jiru_picture_1" width="50"/>
+<img src="/files/jiru2.jpg" alt="jiru_picture_2" width="50"/>
