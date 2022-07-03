@@ -24,7 +24,7 @@ PhD Thesis Advisor: Ian Holmes
   - CBE 475/575: Applied Microbiology and Bioengineering
   - BME 480/580: Computational Cell Biology
   
-<hr style="border:2px dark green">
+<hr style="border:2px DarkGreen">
   
 # Research Experience
 ## Doctoral Research
