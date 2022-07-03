@@ -34,11 +34,11 @@ PhD Thesis Advisor: Prof. Ian Holmes
 *Building statistical and machine learning models to better characterize and understand the engineering of Adeno-associated virus capsids*  
 
 ## Research Rotations
-**2020-2021**
-**UC Berkeley - UCSF Graduate Program in Bioengineering** 
-Rotation 1: Prof. Christoph Kirst, Computational Theoretical Neuroscience
-Rotation 2: Prof. Priya Moorjani, Causal Variant Discovery for South Asian Populations
-Rotation 3: Prof. Ian Holmes, Machine Learning for Directed Evolution of Proteins
+**2020-2021**  
+**UC Berkeley - UCSF Graduate Program in Bioengineering**  
+Rotation 1: Prof. Christoph Kirst, Computational Theoretical Neuroscience  
+Rotation 2: Prof. Priya Moorjani, Causal Variant Discovery for South Asian Populations  
+Rotation 3: Prof. Ian Holmes, Machine Learning for Directed Evolution of Proteins  
   
 ## Fulbright Research Fellowship: Swedish University of Agricultural Sciences
 **Aug 2019 - May 2020**  
