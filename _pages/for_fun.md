@@ -10,7 +10,7 @@ Last updated: August 25th, 2022
 
 ### what am I reading?
 *Academic*: Brushing up on my biology with [Molecular Biology of the Cell (6th ed.)](https://books.google.com/books/about/Molecular_Biology_of_the_Cell.html?id=jK6UBQAAQBAJ)  
-*Non-academic*: Trevor Noah's [Born a Crime: Stories From a South African Childhood](https://www.goodreads.com/book/show/34122206-the-secret-lives-of-color](https://www.goodreads.com/book/show/29780253-born-a-crime), with my department's Diversity, Equity, and Inclusion book club  
+*Non-academic*: Trevor Noah's [Born a Crime: Stories From a South African Childhood](https://www.goodreads.com/book/show/29780253-born-a-crime), with my department's Diversity, Equity, and Inclusion book club  
 
 ### what am I listening to?
 Fueling my Dungeons and Dragons obsession with [Not Another D&D Podcast, Campaign 3](https://www.naddpod.com/)  
