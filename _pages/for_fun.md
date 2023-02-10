@@ -22,6 +22,3 @@ Several V3-V4 projects at [Pacific Pipe Climbing](https://touchstoneclimbing.com
 Crumbs, my dwarf hamster! :)
 
 <img style="border:2px dark gray;" src="/files/crumbs.jpg" alt="Crumbs the hamster" width="350"/>
-
-#<img style="border:2px dark gray;" src="/files/jiru1_2.jpg" alt="jiru_picture_1" width="350"/>
-#<img style="border:2px dark gray;" src="/files/jiru2.jpg" alt="jiru_picture_2" width="350"/>
