@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 # Hi friends!
-My name is Annabel Large (国晓瑛), I use she/her pronouns, and I'm a rising 3rd year PhD student advised by [Ian Holmes](https://ihh.github.io/). I'm housed in the [Bioengineering graduate group](https://bioegrad.berkeley.edu/) at the University of California (UC), Berkeley and UC San Francisco. I'm also pursuing a Designated Emphasis in Computational and Genomic Biology through UC Berkeley's [Center for Computational Biology](https://ccb.berkeley.edu/).  
+My name is Annabel Large (国晓瑛), I use she/her pronouns, and I'm a 3rd year PhD candidate advised by [Ian Holmes](https://ihh.github.io/). I'm housed in the [Bioengineering graduate group](https://bioegrad.berkeley.edu/) at the University of California (UC), Berkeley and UC San Francisco. I'm also pursuing a Designated Emphasis in Computational and Genomic Biology through UC Berkeley's [Center for Computational Biology](https://ccb.berkeley.edu/).  
   
 I'm working on building statistical and machine learning models to better characterize and understand the engineering of Adeno-associated virus (AAV) capsids. Specifically, with all the newest tools and toys from Nanopore informatics and protein language modeling, can we discover new parts of AAV functional landscape? (see my Up-Goer Five summary attempt below!)  
   
