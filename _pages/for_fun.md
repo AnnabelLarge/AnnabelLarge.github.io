@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
 ---
 ## When I'm not doing research...
-Last updated: August 25th, 2022  
+Last updated: February 10th, 2023  
 
 ### what am I reading?
 *Academic*: Brushing up on my biology with [Molecular Biology of the Cell (6th ed.)](https://books.google.com/books/about/Molecular_Biology_of_the_Cell.html?id=jK6UBQAAQBAJ)  
@@ -16,10 +16,12 @@ Last updated: August 25th, 2022
 Fueling my Dungeons and Dragons obsession with [Not Another D&D Podcast, Campaign 3](https://www.naddpod.com/)  
 
 ### what am I working on?
-Finding the memory locations in [The Legend of Zelda: Breath of the Wild](https://www.zelda.com/breath-of-the-wild/), and several V1-V2 projects at [Pacific Pipe Climbing](https://touchstoneclimbing.com/pacific-pipe/) and [Dogpatch Boulders](https://touchstoneclimbing.com/dogpatch-boulders/)
+Several V3-V4 projects at [Pacific Pipe Climbing](https://touchstoneclimbing.com/pacific-pipe/) and [Dogpatch Boulders](https://touchstoneclimbing.com/dogpatch-boulders/)
 
 ### who am I with?
-Jiru, my syrian hamster! :)  
-  
-<img style="border:2px dark gray;" src="/files/jiru1_2.jpg" alt="jiru_picture_1" width="350"/>
-<img style="border:2px dark gray;" src="/files/jiru2.jpg" alt="jiru_picture_2" width="350"/>
+Crumbs, my dwarf hamster! :)
+
+<img style="border:2px dark gray;" src="/files/crumbs.jpg" alt="Crumbs the hamster" width="350"/>
+
+#<img style="border:2px dark gray;" src="/files/jiru1_2.jpg" alt="jiru_picture_1" width="350"/>
+#<img style="border:2px dark gray;" src="/files/jiru2.jpg" alt="jiru_picture_2" width="350"/>
